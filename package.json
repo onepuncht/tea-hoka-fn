@@ -1,6 +1,6 @@
 {
   "name": "tea-hoka-fn",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/onepuncht/tea-hoka-fn#readme",
   "dependencies": {
+    "tea-kodachi-fn": "^1.0.0",
     "tea-persona-fn": "^1.0.0",
     "tea-sekiro-shadows": "^1.0.0",
     "tea-soerya-pranama": "^1.0.0",
